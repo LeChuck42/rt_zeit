@@ -1,0 +1,9 @@
+
+{"friendlyVersion": "0.1",
+ "versionDefName": "RTZEIT_RESOURCES",
+ "media": [
+     {"type":"font",
+      "defName":"FONT_MINECRAFT_22",
+      "file":"Minecraftia_22.ttf"}
+]
+}
